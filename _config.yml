@@ -1,6 +1,5 @@
 name: firsovms.github.io
 url: https://firsovms.github.io
-theme: jekyll-theme-cayman
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
 gems:
