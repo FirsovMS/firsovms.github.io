@@ -1,9 +1,7 @@
 ---
-Title:  "Lindotnet Document Page"
-Date:   2018-11-30 08:44:42 +0400
-Category: opensource
-Tags: lindotnet, sip, telephony, opensource
-Summary: lindotnet brief docs
+layout: post
+title: Learning from data
+excerpt_separator: <!--more-->
 ---
 
 Hello! Welcome to the [Lindotnet](https://github.com/FirsovMS/lindotnet) documentation page repository.
