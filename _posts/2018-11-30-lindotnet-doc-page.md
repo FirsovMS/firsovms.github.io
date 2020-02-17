@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning from data
+title: Presenting my first release for Lindotnet project
 excerpt_separator: <!--more-->
 ---
 
