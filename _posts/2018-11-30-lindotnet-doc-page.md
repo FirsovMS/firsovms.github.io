@@ -7,10 +7,9 @@ excerpt_separator: <!--more-->
 Hello! Welcome to the [Lindotnet](https://github.com/FirsovMS/lindotnet) documentation page repository.
 I've prepared this quick step-by-step guide for people who want use my library, but doesn't know how to start working with it.
 
-First
-------------------
+# First step
+is creating softphone instance. Each of them requires account data, to create a connection between your softphone instance and SIP-Server.
 
-1. Each softphone instance requires account data, to create a connection between your softphone instance and SIP-Server.
 ```csharp
 using lindotnet.Classes.Component.Implementation;
 ...
@@ -18,13 +17,18 @@ var testAccount = new Account(login: "test", password: "testpass",
                  host: "192.168.156.2", accountName:"TestUser");
 ```
 
-2. Next you can create a softphone instance.
+And finally next you can create a softphone instance.
 ```csharp
 using lindotnet.Classes.Component.Implementation;
 ...
 var softphoneInstance = new Softphone(testAccount);
 ```
-1. The **Softphone** instance have a multiple events. <br>Most of it can displaying connection status between server and your softphone, call status.
+
+# Handling events
+All right, it's good that we can create sofpthone. But how we can handle it?
+Luckilly, each **Softphone** instance have a multiple events for handling their state. Most of it can displaying connection status between server and your softphone or call status.
+
+Now can be available this events:
 
 | Event                  | Description                                        |
 | :--------------------- | :--------------------------------------------------|
@@ -37,7 +41,6 @@ var softphoneInstance = new Softphone(testAccount);
 | ErrorEvent             | Some throuble with registration on server or smth  |
 | CallHolded             | Active call was holded                             |
 
-You can use this events as you wish. Like here:<br>
 ```csharp
 /*Subscribe on the events */
 softphoneInstancesoftphoneInstance.PhoneConnectedEvent += SoftphoneInstance_PhoneConnectedEvent;
@@ -69,3 +72,7 @@ private void SoftphoneInstance_MessageReceivedEvent(string from, string message)
 }
 
 ```
+
+
+For more details i want to create a simple app which will be good example for learning.
+Unfortunately my development process has slowed since i've started working as full-time employer.
