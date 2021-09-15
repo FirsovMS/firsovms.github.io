@@ -4,12 +4,12 @@ title: About
 ---
 ## Summary
 
-> 6+ years of experience in software development on .NET-platform.
-Strong skills in .NET(WPF, WCF, ASP.NET, Azure). Additionally I've worked with complicated SQL scripts and Databases(Oracle, MSSQL, Postgres...) and have some frontend experience (ES6, React, Vue).
->Effectively communicated with customers and resolved their issues.
-> Demonstrated ability to learn new technologies quickly
-> Worked in small- and large-scale projects with distributed and centralized teams
-> English B1+
+* 6+ years of experience in software development on .NET-platform.
+* Strong skills in .NET(WPF, WCF, ASP.NET, Azure). Additionally I've worked with complicated SQL scripts and Databases(Oracle, MSSQL, Postgres...) and have some frontend experience (ES6, React, Vue).
+* Effectively communicated with customers and resolved their issues.
+* Demonstrated ability to learn new technologies quickly
+* Worked in small- and large-scale projects with distributed and centralized teams
+* English B1+
 
 ## Projects
 
