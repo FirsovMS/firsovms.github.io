@@ -17,4 +17,4 @@ I've worked with integrating different types of ERP systems and customized for b
 Was part of theam, that has been developed searching service for booking and tickets.
 Worked on creating special app's for media processing and event needs (like managing hardware on the remote machine).
 
-I'm also working on a wide variety of open-source projects, most of which are hosted [on GitHub](https://github.com/FirsovMS/).
+I'm also working on a wide variety of open-source projects, most of which are hosted [on GitHub](https://github.com/FirsovMS/) or [on Linkedin](https://www.linkedin.com/in/mikhael-firsov-851512138/) 
