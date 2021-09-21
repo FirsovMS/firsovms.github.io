@@ -21,6 +21,9 @@ I'm also working on a wide variety of open-source projects, most of which are ho
 
 ## Certificates
 Stepik courses 
-[Python](https://firsovms.github.io/certs/stepik/stepik-certificate-67-12df5cb.pdf), 
-[C++](https://firsovms.github.io/certs/stepik/stepik-certificate-7-128f198.pdf),
- [Java for WEB.Part1](https://firsovms.github.io/certs/stepik/stepik-certificate-146-30da123.pdf) and [Java for WEB.Part2](https://firsovms.github.io/certs/stepik/stepik-certificate-186-fa07c4a.pdf), [WebDevelopment with Python(DJango)](https://firsovms.github.io/certs/stepik/stepik-certificate-154-d0d4091.pdf), [DatabaseIntroduction](https://firsovms.github.io/certs/stepik/stepik-certificate-551-97016b6.pdf)
+* [Python](https://firsovms.github.io/certs/stepik/stepik-certificate-67-12df5cb.pdf)
+* [C++](https://firsovms.github.io/certs/stepik/stepik-certificate-7-128f198.pdf)
+* [Java for Web.Part1](https://firsovms.github.io/certs/stepik/stepik-certificate-146-30da123.pdf)
+* [Java for Web.Part2](https://firsovms.github.io/certs/stepik/stepik-certificate-186-fa07c4a.pdf)
+* [WebDevelopment with Python(DJango)](https://firsovms.github.io/certs/stepik/stepik-certificate-154-d0d4091.pdf)
+* [DatabaseIntroduction](https://firsovms.github.io/certs/stepik/stepik-certificate-551-97016b6.pdf)
