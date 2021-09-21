@@ -18,3 +18,9 @@ Was part of theam, that has been developed searching service for booking and tic
 Worked on creating special app's for media processing and event needs (like managing hardware on the remote machine).
 
 I'm also working on a wide variety of open-source projects, most of which are hosted [on GitHub](https://github.com/FirsovMS/) or [on Linkedin](https://www.linkedin.com/in/mikhael-firsov-851512138/) 
+
+## Certificates
+Stepik courses 
+[Python](https://firsovms.github.io/certs/stepik/stepik-certificate-67-12df5cb.pdf), 
+[C++](https://firsovms.github.io/certs/stepik/stepik-certificate-7-128f198.pdf),
+ [Java for WEB.Part1](https://firsovms.github.io/certs/stepik/stepik-certificate-146-30da123.pdf) and [Java for WEB.Part2](https://firsovms.github.io/certs/stepik/stepik-certificate-186-fa07c4a.pdf), [WebDevelopment with Python(DJango)](https://firsovms.github.io/certs/stepik/stepik-certificate-154-d0d4091.pdf), [DatabaseIntroduction](https://firsovms.github.io/certs/stepik/stepik-certificate-551-97016b6.pdf)
